@@ -1,0 +1,7 @@
+step 1:
+		make
+step 2:	
+		Run - ./filter dataSet.txt size_of the_filter
+		Example - ./com_filter example4.txt 512
+
+To get the functionality refer Appendix A.
